@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 ![Logo](https://www.theconsolelogs.com/react/react-native.png)
 
 
-# Hi, I'm Piyush! 👋
+# Hi, I'm Abhishek! 👋
 
 
 ## 🚀 About Me
