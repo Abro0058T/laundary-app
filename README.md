@@ -84,7 +84,4 @@ To deploy this project run
 [Documentation](https://reactnative.dev/docs/environment-setup)
 
 
-## Authors
-
-- [@piug-07](https://www.github.com/piug-07)
 
